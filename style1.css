@@ -2,4 +2,22 @@
     width: 760px;
     margin: auto;
     background: red;
+    text-align: left;
 }
+
+#header {
+    background: blue;
+    height: 150px;
+}
+
+#content {
+    background: green;
+}
+
+#footer {
+    background: orange;
+    height: 66px;
+}
+
+
+
