@@ -1,7 +1,7 @@
 #page-container {
     width: 760px;
     margin: auto;
-    background: red;
+    background: rgb(179, 179, 21);
     text-align: left;
 }
 
@@ -11,13 +11,15 @@
 }
 
 #content {
-    background: green;
+    background: rgb(20, 86, 20);
 }
 
 #footer {
     background: orange;
     height: 66px;
+
 }
+
 
 
 
