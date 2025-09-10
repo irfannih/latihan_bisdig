@@ -1,20 +1,4 @@
-// alert ("Thank you")
-// confirm ("kjdslksfdj")
-// prompt ("kjdshfhksdjf")
-// Date ("14 february 2006")
 
-// parseInt("ijnnstt")
-// setTimeout(irfan,5000)
-
-// function foo() {
-// alert("Our function just ran!");
-// } foo(); a
-
-// function alertArraySize(arr) {
-// alert(arr.length);
-// }
-
-// var test = [1,2,3,4,5];
 var no1 = 5;
 no1 = 5
 console.log(no1);
@@ -105,7 +89,13 @@ window.alert ( john.fullname );
 window.alert ( billy.firstname ); 
 
 
+alert ("Thank you")
+confirm ("kjdslksfdj")
+prompt ("kjdshfhksdjf")
+Date ("14 february 2006")
 
+parseInt("ijnnstt")
+setTimeout(irfan,5000)
 
 
 
